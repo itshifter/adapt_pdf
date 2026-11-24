@@ -1,0 +1,22 @@
+{
+  "parse_mode": "full_ocr_fallback",
+  "total_pages": 2,
+  "pages": [
+    {
+      "page_no": 1,
+      "page_md": "## ACME INDUSTRIALSUPPLY CO.\n\nInvoice Date: 2026-11-15|Account: #8841\n\n| Code       | Description              |   Qty | Unit Price   | Total   |\n|------------|--------------------------|-------|--------------|---------|\n| [Hardware] |                          |       |              |         |\n| HW-101     | Heavy Duty Steel Bracket |     4 | $25.00       | $100.00 |\n| HW-204     | Titanium Hex Bolt Pack   |     3 | $50.00       | $160.00 |\n| HW-309     | Industrial Torque Wrench |     1 | $145.50      | $145.50 |",
+      "tables_html": "<!-- Table 1 -->\n<table><tbody><tr><th>Code</th><th>Description</th><th>Qty</th><th>Unit Price</th><th>Total</th></tr><tr><th>[Hardware]</th><td></td><td></td><td></td><td></td></tr><tr><td>HW-101</td><td>Heavy Duty Steel Bracket</td><td>4</td><td>$25.00</td><td>$100.00</td></tr><tr><td>HW-204</td><td>Titanium Hex Bolt Pack</td><td>3</td><td>$50.00</td><td>$160.00</td></tr><tr><td>HW-309</td><td>Industrial Torque Wrench</td><td>1</td><td>$145.50</td><td>$145.50</td></tr></tbody></table>",
+      "merged_count": 0,
+      "docling_score": 0.8413,
+      "page_grade": "QualityGrade.FAIR"
+    },
+    {
+      "page_no": 2,
+      "page_md": "HW-412 Neoprene Gasket Roll 2 $32.00 $64.00 HW-518 Safety Lockout Kit 5 $18.00 $90.00",
+      "tables_html": "",
+      "merged_count": 0,
+      "docling_score": 0.8074,
+      "page_grade": "QualityGrade.FAIR"
+    }
+  ]
+}
